@@ -5,7 +5,6 @@ A simple project to simulate design a control system using Simulink and MATLAB a
 https://youtu.be/wRNA-Z97uCE
 
 ### Referred to the following links:
-1. https://youtu.be/pfqQNl3B31A  
-2. https://www.youtube.com/watch?v=CJGlKCfGEA0  
-3. https://youtu.be/jB-80cvV1Ao  
-4. https://youtu.be/f8tdTiuj5lo
+1. https://www.youtube.com/watch?v=CJGlKCfGEA0  
+2. https://youtu.be/jB-80cvV1Ao  
+3. https://youtu.be/f8tdTiuj5lo
